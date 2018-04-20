@@ -20,7 +20,7 @@ public class CompteBancari {
     /**
      * Atribut amb el que es guardarà el saldo inicial del compte bancari
      */
-    private static float saldoInicial = (float) 0.0;
+    private static float saldoInicial = (float) 100.0;
     
     /**
      * Atribut amb el que es guardarà el saldo del compte bancari
