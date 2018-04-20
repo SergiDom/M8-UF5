@@ -121,4 +121,8 @@ public class CompteBancari {
         return ("Hola Señor/a");
     }
     
+    public boolean hola(){
+        return false;
+    }
+    
 }
