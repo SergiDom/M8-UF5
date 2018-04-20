@@ -116,4 +116,9 @@ public class CompteBancari {
         }
         return resultat;
     }
+    
+    public String saludo(){
+        return ("Hola Señor/a");
+    }
+    
 }
